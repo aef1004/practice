@@ -1,11 +1,11 @@
 Package: practice
 Type: Package
-Title: What the Package Does (Title Case)
+Title: Practice Building a Package
 Version: 0.1.0
-Author: Who wrote it
+Author: Amy Fox (but really Hadley WIckham)
 Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
-License: What license is it under?
+Description: Test building a package with Hadley Wickham's book. 
+  The functions we're adding will deal with factors.
+License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
